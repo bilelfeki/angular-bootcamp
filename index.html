@@ -38,7 +38,10 @@
 		</div>
 		<div class="header_side d-flex flex-row justify-content-center align-items-center">
 			<img src="images/phone-call.svg" alt="">
-			<span>+216 21 033 247</span>
+			<span>
+				<a href="tel:+21621033247">+216 21 033 247</a>
+			</span>
+			
 		</div>
 
 		<!-- Hamburger -->
@@ -87,8 +90,12 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 		<div class="home_background_container prlx_parent">
 			<div class="home_background prlx" style="background-image:url(images/contact_background.jpg)"></div>
 		</div>
-		<div class="home_content">
-			<h1>bilel.feki.kaaniche@gmail.com</h1>
+		<div  class="home_content">
+			<h1>
+				<a class="" href="mailto:bilel.feki.kaaniche@gmail.com">
+					bilel.feki.kaaniche@gmail.com
+				</a>
+			</h1>
 		</div>
 	</div>
 
@@ -139,7 +146,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 									</li>
 									<li class="pb_item">
 										<h4>Design</h4>
-										<div id="skill_2_pbar" class="skill_bars" data-perc="1"></div>
+										<div id="skill_2_pbar" class="skill_bars" data-perc="0.9"></div>
 									</li>
 									<li class="pb_item">
 										<h4>Debugging</h4>
@@ -227,15 +234,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 		</section>
 		
 		<!-- Milestones -->
-		<section class="milestones">
-			<div class="container">
-				<div class="row">
-					<div class="col">
-						<h2 class="elements_title">Milestones</h2>
-					</div>
-				</div>
-			</div>
-		
+		<section class="milestones">		
 			<div class="milestones_container">
 				<div class="milestones_background" style="background-image:url(images/milestones_background.jpg)"></div>
 		
@@ -277,6 +276,19 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	</footer>
 
 </div>
+  <script>
+        // Function to copy content to clipboard
+        function copyToClipboard(elementId) {
+            var text = document.getElementById(elementId).textContent || document.getElementById(elementId).innerText;
+            var textarea = document.createElement('textarea');
+            textarea.value = text;
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textarea);
+            alert("Copied to clipboard: " + text);
+        }
+    </script>
 
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="styles/bootstrap4/popper.js"></script>

@@ -65,6 +65,10 @@
 	{
 		font-size: 14px;
 	}
+	.header_side span >a
+	{
+		font-size: 14px;
+	}
 	.header_side img
 	{
 		width: 20px;
@@ -177,6 +181,10 @@
 		margin-bottom: 0px;
 	}
 	.home_content h1 {
+        font-size: 24px; /* Slightly larger font size for medium screens */
+        line-height: 1.4; /* Adjust line height for better readability */
+    }
+	.home_content h1 a{
         font-size: 24px; /* Slightly larger font size for medium screens */
         line-height: 1.4; /* Adjust line height for better readability */
     }
@@ -296,6 +304,10 @@
 	    padding-right: 24px;
 	}
     .home_content h1 {
+        font-size: 18px; /* Smaller font size for mobile */
+        line-height: 1.3; /* Ensure text is spaced well */
+    }
+	.home_content h1 > a {
         font-size: 18px; /* Smaller font size for mobile */
         line-height: 1.3; /* Ensure text is spaced well */
     }
