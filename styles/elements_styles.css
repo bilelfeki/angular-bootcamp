@@ -696,6 +696,9 @@ section
 	line-height: 0.5;
 	white-space: nowrap;
 }
+.hidden-on-desktop{
+	display: none;
+}
 
 /*********************************
 7. Page Section
