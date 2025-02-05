@@ -1,25 +1,33 @@
-Thanks for downloading this theme!
+# Angular Bootcamp
 
-## Other Useful Links
+Welcome to the **Angular Bootcamp**! This course is designed to help you master Angular step by step.
 
-**ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
+## 🚀 Live Demo
 
-To download free templates, follow this link: https://themewagon.com/theme_tag/free/
+👉 [Click here to access the demo course](https://bilelfeki.github.io/angular-bootcamp/)
 
-Besides that, you can buy our premium templates for making your web development experience unforgettable.
+## 📖 About the Course
 
-Visit the store from here: https://themewagon.com/theme-categories/premium-templates/
+This bootcamp covers:
+- A bit of Architecture
+- Project setup
+- Components, Templates, Services & More
+- Working with Modules
+- Debugging Angular Apps
+- Components & Templates - Deep Dive
+- Standalone Components
+- Enhancing Elements with Directives - Deep Dive
+- Transforming Values with Pipes - Deep Dive
+- Understanding Services & Dependency Injection - Deep Dive
+- Making Sense of Change Detection - Deep Dive
+- Working with RxJS (Observables) - Deep Dive
+- Sending HTTP Requests & Handling Responses
+- Handling User Input & Working with Forms (Template-driven & Reactive)
+- Routing
+- Authentication & Route Protection in Angular
+- Deploying Angular Apps
 
-Alternatively, here's our top most trending and selling items:
+## 📬 Contact
+For any questions or suggestions, feel free to reach out!
 
-* [**Sparrow**](https://themewagon.com/themes/sparrow/) - A multipurpose template made with Bootstrap 4.1 and world's finest animation.
-* [**Posh**](https://themewagon.com/themes/posh-html5-bootstrap-4-template/) - Bootstrap 4 template with a myriad number of ready-to-deploy sections. 
-* [**Elixir**](https://themewagon.com/themes/elixir-elegant-html5-bootstrap-template-consultancy-agency-website/) - Bootstrap 4 agency template. Best for smooth animated scrolling. 
-* [**Freya**](https://themewagon.com/themes/bootstrap-4-premium-interior-design-template-freya/) - Interior design template made with Bootstrap 4. 
-* [**Reign Pro**](https://themewagon.com/themes/reign-pro-premium-corporate-agency-html5-template/) - A corporate template with a visually unique design scheme. 
-* [**Boots4**](https://themewagon.com/themes/first-ever-bootstrap-4-template/) - One of the first Bootstrap 4 templates ever made on earth. 
-* [**Hideaway**](https://themewagon.com/themes/hideaway/) - A template for resorts. Built with Bootstrap 4. 
-* [**Baikal**](https://themewagon.com/themes/bootstrap-4-startup-small-business-website-template/) - A smart Bootstrap template for start-up. 
-* [**Mega Discount**](https://themewagon.com/themes/mega-discount-bundle/) - A bundle of 26 HTML5 templates; best value for your money. 
-
-
+Happy coding! 🎉
